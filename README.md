@@ -1,6 +1,6 @@
 # 日本の旅客鉄道および高速道路整備の変遷マップ on MapLibre GL JS
 ## Public Website  
-https://shi-works.github.io/ksj-change-map/
+https://shiwaku.github.io/ksj-change-map/
 
 ## 使用データ
 - 国土数値情報 鉄道時系列データ（令和3年度）  
